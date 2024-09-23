@@ -1,0 +1,35 @@
+body.bg-dark{
+  background-color: #343a40 !important;
+  color: rgb(174, 168, 168) !important
+}
+body.bg-light{
+  background-color: #aaa9a9 !important;
+  color: rgb(53, 48, 48) !important;
+}
+.welcome {
+  display: flex;
+  align-items: center;
+}
+.profilepic {
+  width: 40px;
+  height: 40px;
+}
+.CItem {
+  background: black;
+  overflow:hidden;
+}
+.carouselImage {
+  object-fit: cover;
+  height: 500px;
+  opacity: 0.6;
+}
+.form-container {
+  width: 40px;
+  margin-left: 33%;
+  margin-right: 33%;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  border: solid;
+  padding:  80px;
+  border-radius: 20px;
+}
